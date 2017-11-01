@@ -1,2 +1,3 @@
 # hello-world
-Testing this
+
+Data Science enthusiast looking to get the hang of GitHub quickly.
